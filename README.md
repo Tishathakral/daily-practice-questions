@@ -11,8 +11,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tishathakral/daily-practice-questions/tree/master/0020-valid-parentheses) |
+| [0812-rotate-string](https://github.com/Tishathakral/daily-practice-questions/tree/master/0812-rotate-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tishathakral/daily-practice-questions/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Tishathakral/daily-practice-questions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
