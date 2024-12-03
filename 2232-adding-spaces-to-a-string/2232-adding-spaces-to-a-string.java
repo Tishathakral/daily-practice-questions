@@ -1,18 +1,24 @@
 class Solution {
     public String addSpaces(String s, int[] spaces) {
-        // Use StringBuilder for dynamic string manipulation
-        StringBuilder result = new StringBuilder();
-        int spaceCount = 0;
+        // Calculate the length of the new array
+        int length = s.length() + spaces.length;
+        char[] result = new char[length];
+        
+        int spaceIndex = 0; // Pointer for spaces array
+        int resultIndex = 0; // Pointer for result array
 
+        // Iterate through the characters of the string
         for (int i = 0; i < s.length(); i++) {
-            // Check if current index matches the next space index
-            if (spaceCount < spaces.length && i == spaces[spaceCount]) {
-                result.append(' '); // Add a space
-                spaceCount++; // Move to the next space index
+            // If the current index matches the next space position
+            if (spaceIndex < spaces.length && i == spaces[spaceIndex]) {
+                result[resultIndex++] = ' '; // Add a space
+                spaceIndex++; // Move to the next space index
             }
-            result.append(s.charAt(i)); // Add the current character
+            // Add the current character
+            result[resultIndex++] = s.charAt(i);
         }
 
-        return result.toString();
+        // Convert the result array back to a String and return
+        return new String(result);
     }
 }
