@@ -14,9 +14,9 @@ public:
 
          
             for(int j=0;j<nums2.size();j++){
+                 found = value;
                 if(value==nums2[j]){
                     result.push_back(value);
-                    found = value;
                     break;
                 }
             }
