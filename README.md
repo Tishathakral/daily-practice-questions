@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tishathakral/daily-practice-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Tishathakral/daily-practice-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0792-binary-search](https://github.com/Tishathakral/daily-practice-questions/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tishathakral/daily-practice-questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Tishathakral/daily-practice-questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2232-adding-spaces-to-a-string](https://github.com/Tishathakral/daily-practice-questions/tree/master/2232-adding-spaces-to-a-string) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tishathakral/daily-practice-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Tishathakral/daily-practice-questions/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/Tishathakral/daily-practice-questions/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tishathakral/daily-practice-questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Tishathakral/daily-practice-questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 ## Sorting
