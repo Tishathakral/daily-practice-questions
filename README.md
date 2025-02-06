@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Tishathakral/daily-practice-questions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Tishathakral/daily-practice-questions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Tishathakral/daily-practice-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Tishathakral/daily-practice-questions/tree/master/0326-power-of-three) |
 ## String
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Tishathakral/daily-practice-questions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tishathakral/daily-practice-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Tishathakral/daily-practice-questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tishathakral/daily-practice-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
