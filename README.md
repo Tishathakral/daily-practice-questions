@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Tishathakral/daily-practice-questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tishathakral/daily-practice-questions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tishathakral/daily-practice-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tishathakral/daily-practice-questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Tishathakral/daily-practice-questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2232-adding-spaces-to-a-string](https://github.com/Tishathakral/daily-practice-questions/tree/master/2232-adding-spaces-to-a-string) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tishathakral/daily-practice-questions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tishathakral/daily-practice-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Tishathakral/daily-practice-questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tishathakral/daily-practice-questions/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tishathakral/daily-practice-questions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tishathakral/daily-practice-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
 | ------- |
@@ -118,4 +121,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0231-power-of-two](https://github.com/Tishathakral/daily-practice-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Tishathakral/daily-practice-questions/tree/master/0326-power-of-three) |
+## Counting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tishathakral/daily-practice-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
