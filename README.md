@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Tishathakral/daily-practice-questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Tishathakral/daily-practice-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/Tishathakral/daily-practice-questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tishathakral/daily-practice-questions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Tishathakral/daily-practice-questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tishathakral/daily-practice-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tishathakral/daily-practice-questions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
