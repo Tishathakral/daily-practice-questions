@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Tishathakral/daily-practice-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tishathakral/daily-practice-questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Tishathakral/daily-practice-questions/tree/master/0326-power-of-three) |
+| [0909-stone-game](https://github.com/Tishathakral/daily-practice-questions/tree/master/0909-stone-game) |
 | [2481-strictly-palindromic-number](https://github.com/Tishathakral/daily-practice-questions/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/Tishathakral/daily-practice-questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0909-stone-game](https://github.com/Tishathakral/daily-practice-questions/tree/master/0909-stone-game) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tishathakral/daily-practice-questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tishathakral/daily-practice-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tishathakral/daily-practice-questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -133,4 +135,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Tishathakral/daily-practice-questions/tree/master/2481-strictly-palindromic-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Tishathakral/daily-practice-questions/tree/master/0909-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Tishathakral/daily-practice-questions/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
