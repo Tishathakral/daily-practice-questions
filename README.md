@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tishathakral/daily-practice-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tishathakral/daily-practice-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Tishathakral/daily-practice-questions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Tishathakral/daily-practice-questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tishathakral/daily-practice-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0189-rotate-array) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Tishathakral/daily-practice-questions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Tishathakral/daily-practice-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tishathakral/daily-practice-questions/tree/master/0268-missing-number) |
 | [1054-complement-of-base-10-integer](https://github.com/Tishathakral/daily-practice-questions/tree/master/1054-complement-of-base-10-integer) |
