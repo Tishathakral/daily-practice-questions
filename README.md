@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tishathakral/daily-practice-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tishathakral/daily-practice-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Tishathakral/daily-practice-questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tishathakral/daily-practice-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Tishathakral/daily-practice-questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tishathakral/daily-practice-questions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tishathakral/daily-practice-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tishathakral/daily-practice-questions/tree/master/0283-move-zeroes) |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Tishathakral/daily-practice-questions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Tishathakral/daily-practice-questions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Tishathakral/daily-practice-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Tishathakral/daily-practice-questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tishathakral/daily-practice-questions/tree/master/0349-intersection-of-two-arrays) |
